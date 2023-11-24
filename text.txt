@@ -1,7 +1,2 @@
 This is the text in main branch 
-
-# I added this extra in the feature 1
-
-#I believe that we can add this one
-
-## some more changes that we can done are the following 
+ 
