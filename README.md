@@ -1,4 +1,4 @@
-# aftercourse_gitrepository README
+# README for the aftercourse_gitrepository 
 This is the the README for this repository
 Think the following
 - this is a test repository
